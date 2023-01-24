@@ -19,7 +19,7 @@ In this paper we develop ADE-Net which focuses on attack type detection and adve
 
 The most direct visualization of ADE-Net is provided in "ADE_Net.ipynb" along with all the associated code for the project. For the single network baseline, the training can be done in "Baseline_Training.ipynb". To generate all the adversarial attacks for each dataset for the ADE-Net experiments, "Attack_Generation.ipynb" can be used.
 
-NOTE: The [Houston](https://hyperspectral.ee.uh.edu/?page_id=1075) dataset is not avaliable for redistribution. Therefore, you must download the Houston dataset for youself and place the files into a folder named "Houston" in the "Data" folder.
+NOTE: The [Houston](https://hyperspectral.ee.uh.edu/?page_id=1075) dataset is not avaliable for redistribution. Therefore, you must download the Houston dataset for youself and place the files into a folder named "Houston" in the "Data" folder. For the rest of the datasets, you can download them [here](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes) and place them into a folder named "Dataset_Name" in the "Data" folder as per the notebook files.
 
 ## Results
 
